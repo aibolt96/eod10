@@ -1,0 +1,63 @@
+
+#box1{
+    display: flex;
+    position: relative;
+    border: solid black 3px;
+    padding: 10px;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+#purplebox{
+    background-color: purple;
+    height: 120px;
+    width: 30px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+#greenbox{
+    background-color: green;
+    height: 150px;
+    width: 300px;
+    margin-right: 50px;
+}
+
+#circle{
+    background-color: blue;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+#box2{
+    display: flex;
+    border: dotted black 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#creambox{
+    background-color: cornsilk;
+    height: 200px;
+    width: 1000px;
+    margin: 50px 50px 50px 50px;
+    box-shadow: 10px 10px 5px black;
+}
+
+#box3{
+    margin: auto;
+    width: 25%;
+    display: block;
+    border: solid gray 1px;
+    padding: 80px;
+    box-shadow: 5px 5px 5px darkgray;
+}
+
+p{
+    color: blue;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 10px;
+}

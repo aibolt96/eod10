@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+}
+
+#header{
+    display: flex;
+    background-color: gray;
+    padding: 30px;
+}
+
+#bluesquare{
+    background-color: blue;
+    height: 70px;
+    width: 70px;
+    
+}
